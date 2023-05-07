@@ -32,7 +32,7 @@ Users should be able to:
 
 - Solution URL: [get solution🌐](https://github.com/VikashMaurya10/huddle-landing-page-with-alternating-feature-blocks-master)
 
-- Live Site URL: [view🌐]()
+- Live Site URL: [view🌐](https://huddle-landing-page-with-alternating-feature-blocks-f4xzrz5uq.vercel.app/)
 
 ## My process
 
